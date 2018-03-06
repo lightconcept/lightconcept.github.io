@@ -1,2 +1,2 @@
-# lightconcept.github.io
-Light Concept's Website
+# Light Concept's Website
+Work in progress ;)
